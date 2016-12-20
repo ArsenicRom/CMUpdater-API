@@ -2,11 +2,11 @@
  "id": null,
  "result": [
     {
-    "url": "https://www.androidfilehost.com/?fid=457095661767123879",
-    "timestamp": "1482445741",
+    "url": "http://qc4.androidfilehost.com/dl/RocY5ESmXmY6FvRKhr4AbA/1482446574/673368273298917782/cm-14.1-20161220-ARSENIC-v1-oneplus3.zip",
+    "timestamp": "1482446574",
     "api_level": "25",
     "md5sum": "967ff46ec420a5c9657bc1670e520f1a",
-    "filename": "cm-14.1-20161220-ARSENIC-oneplus3.zip",
+    "filename": "cm-14.1-20161220-ARSENIC-v1-oneplus3.zip",
     "channel": "NIGHTLY",
     "changes": "",
     "incremental": ""
