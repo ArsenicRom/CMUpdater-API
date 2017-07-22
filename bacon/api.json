@@ -1,16 +1,12 @@
 {
- "id": null,
- "result": [
-     {
-    "url": "https://tx1.androidfilehost.com/dl/_8RX_-_S12QlxGJWE1xUMw/1482794099/457095661767124730/cm-14.1-20161224-ARSENIC-bacon.zip",
-    "timestamp": "1482794099",
-    "api_level": "25",
-    "md5sum": "70552c05d46c89040a42e394e631bc0d",
-    "filename": "cm-14.1-20161224-ARSENIC-bacon.zip",
-    "channel": "NIGHTLY",
-    "changes": "",
-    "incremental": ""
-    },
-  ],
- "error": null
+  "response": [
+    {
+      "filename": "lineage-14.1-20170722-ARSENIC-bacon.zip",
+      "url": "http://qc4.androidfilehost.com/dl/OoT499XnpecOfR8ZEl0PqQ/1500947160/673368273298973413/lineage-14.1-20170722-ARSENIC-bacon.zip",
+      "md5sum": "49357f41d77b7565a8e6f2f1bb3dabfa",
+      "datetime": 1500947160,
+      "romtype": "arsenic",
+      "version": "14.1"
+    }
+  ]
 }
