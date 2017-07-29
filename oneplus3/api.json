@@ -1,10 +1,10 @@
 {
   "response": [
     {
-      "filename": "lineage-14.1-20170722-UNOFFICIAL-oneplus3.zip",
-      "url": "http://qc4.androidfilehost.com/dl/aP_lqgGnEeKk-GWqDuFB2Q/1500844499/961840155545583413/lineage-14.1-20170722-UNOFFICIAL-oneplus3.zip",
-      "md5sum": "c7274c59eb462fa6c196c1002701d558",
-      "datetime": 1500844499,
+      "filename": "lineage-14.1-20170728-UNOFFICIAL-oneplus3.zip",
+      "url": "https://qc3.androidfilehost.com/dl/VmFfhPnrCVw0Mk3w__DlNg/1501553092/817550096634789131/lineage-14.1-20170728-ARSENIC-oneplus3.zip",
+      "md5sum": "ed37423823888002131d70f306862e1e",
+      "datetime": 1501553092,
       "romtype": "unofficial",
       "version": "14.1"
     }
